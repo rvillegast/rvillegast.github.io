@@ -7813,7 +7813,9 @@ textarea.form-control-lg {
 
 .bg-secondary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+  /* background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important; */
+  background-color: #198754 !important; 
+ 
 }
 
 .bg-success {
@@ -11535,6 +11537,10 @@ html {
 font-family: 'SF Distant Galaxy Symbols', sans-serif;
 }
 
+.letra{
+  font-family: 'Ikka Rounded', sans-serif;
+}
+
 
 
 
@@ -11580,4 +11586,9 @@ font-family: 'SF Distant Galaxy Symbols', sans-serif;
     font-size: 10px;
     font-weight: 500;
   }
+}
+
+
+.fondo{
+  background:url('../assets/img/wallpaper4.jpg'); 
 }
