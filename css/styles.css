@@ -11512,11 +11512,18 @@ html {
 /*https://www.cdnfonts.com/sf-distant-galaxy.font*/
 .starwars{
   font-family: 'SF Distant Galaxy Outline', sans-serif;
+
 }
+.starwars-grande{
+  font-family: 'SF Distant Galaxy Outline', sans-serif;
+  font-size: 50pt;
+}
+
 
 
 .starwars2{
   font-family: 'SF Distant Galaxy', sans-serif;
+  font-size: 50pt;
 }
 
 
